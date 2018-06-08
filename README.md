@@ -8,4 +8,4 @@ ave created to show data to other people.
 * _code_ - is where you will create code files for collecting, cleaning up, or a\
  nalyzing data. 
 * _products_ - this is the place where you will place any reports, presentations\
-11 , or products you create for sharing with other people.
+, or products you create for sharing with other people.
